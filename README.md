@@ -14,6 +14,15 @@
 <ul>
   <li>:computer:  I am currently working with something really cool  :wink:;</li>
  <li><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/Handshake.gif" width="30" height="30">I am looking forward to collabrate on <b>Mini projects</b></li>
+  - 🌱 I’m currently learning **React and other js framewroks and also ui designing.**
+
+- 👨‍💻 All of my projects are available at [https://harshikagawade.netlify.app](https://harshikagawade.netlify.app)
+
+- 💬 Ask me about **html,css,js**
+
+- 📫 How to reach me **harshikagawade@gmail.com**
+
+- ⚡ Fun fact **I think that I am focussed.:wink:
  </ul>
 
 # :bar_chart:My Github Stats
@@ -53,15 +62,7 @@
 
 <p align="left"> <a href="https://twitter.com/gawadeharshika" target="blank"><img src="https://img.shields.io/twitter/follow/gawadeharshika?logo=twitter&style=for-the-badge" alt="gawadeharshika" /></a> </p>
 
-- 🌱 I’m currently learning **React and other js framewroks and also ui designing.**
 
-- 👨‍💻 All of my projects are available at [https://harshikagawade.netlify.app](https://harshikagawade.netlify.app)
-
-- 💬 Ask me about **html,css,js**
-
-- 📫 How to reach me **harshikagawade@gmail.com**
-
-- ⚡ Fun fact **I think that I am focussed.:wink:
   
   
   
