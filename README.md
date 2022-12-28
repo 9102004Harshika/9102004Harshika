@@ -85,8 +85,11 @@
 
 <p align="left"> <a href="https://twitter.com/gawadeharshika" target="blank"><img src="https://img.shields.io/twitter/follow/gawadeharshika?logo=twitter&style=for-the-badge" alt="gawadeharshika" /></a> </p>
 
+  
+   <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="25" height="25">
 <hr>
-  Also do checkout my portfolio ,to know more about me and explore on my projects.Click on the link below to go to my website.
+  Also do checkout my <b>portfolio</b> ,to know more about me and explore on my projects.Click on the link below to go to my website.
+  <a href="https://harshikagawade.netlify.app">Harshika Gawade</a>
 
   
   
