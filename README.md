@@ -16,3 +16,18 @@
  <li><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/Handshake.gif" width="30" height="30">I am looking forward to collabrate on <b>Mini projects</b></li>
  </ul>
  
+ 
+ 
+ <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/coding-freak%20(1).gif" align="right" width="350" height="350">
+
+
+
+
+
+# 🚀:Languages
+
+<ul>
+  <li>:computer:  I am currently working with something really cool  :wink:;</li>
+ <li><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/Handshake.gif" width="30" height="30">I am looking forward to collabrate on <b>Mini projects</b></li>
+ </ul>
+ 
