@@ -42,6 +42,11 @@
 ![Harshika's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9102004Harshika&theme=dark)
 ![Harshika's Current streak](https://streak-stats.demolab.com/?user=9102004Harshika&theme=dark)
 <hr>
+
+<img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="300" height="300" align="right">
+
+
+
 <h5 align="center">:trophy:My Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9102004harshika" alt="9102004harshika" /></a> </p>
  <hr>
@@ -49,8 +54,7 @@
 <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/me.gif" align="right" width="300" height="300">
 
   
-  <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="300" height="300" align="right">
-
+  
   
   
   
