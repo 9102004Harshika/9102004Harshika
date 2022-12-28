@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there ![](https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif)
 
 <!--
 **9102004Harshika/9102004Harshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
