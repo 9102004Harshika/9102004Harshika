@@ -16,13 +16,13 @@
  <li><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/Handshake.gif" width="30" height="30">I am looking forward to collabrate on <b>Mini projects</b></li>
   </li> 🌱 I’m currently learning **React and other js framewroks and also ui designing.</li>
 
-- 👨‍💻 All of my projects are available at [https://harshikagawade.netlify.app](https://harshikagawade.netlify.app)
+<li> 👨‍💻 All of my projects are available at [https://harshikagawade.netlify.app](https://harshikagawade.netlify.app)</li>
 
-- 💬 Ask me about **html,css,js**
+<li>💬 Ask me about **html,css,js**</li>
 
-- 📫 How to reach me **harshikagawade@gmail.com**
+<Li> 📫 How to reach me **harshikagawade@gmail.com**</li>
 
-- ⚡ Fun fact **I think that I am focussed.:wink:
+<li> ⚡ Fun fact **I think that I am focussed.:wink:</li>
  </ul>
 
 # :bar_chart:My Github Stats
