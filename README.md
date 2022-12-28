@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif">
+### Hi there <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="15" height="15">
 <h1>hi there</h1>
 <!--
 **9102004Harshika/9102004Harshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
