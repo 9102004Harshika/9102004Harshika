@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there,I am Harshika gawade <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25"></h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80149C&width=435&lines=Front+End+Enthusiast.;Student+At+Thakur+Instituions.;Want+To+Learn+More+About+UI." alt="Typing SVG" /></a>
 <!--
 **9102004Harshika/9102004Harshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
