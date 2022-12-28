@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B61798&center=true&vCenter=true&width=435&lines=Front+End+Enthusiast.;Student+At+Thakur+Instituions;Want+To+Learn+More+About+UI" alt="Typing SVG" /></a>
 
 
-<img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/coding-freak%20(1).gif" align="right" width="350" height="350">
-# :raising_hand_woman:
+
+##:raising_hand_woman:
 <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/coding-freak%20(1).gif" align="right" width="350" height="350">
 <ul>
   <li>:computer:  I am currently working with something really cool  :wink:;</li>
