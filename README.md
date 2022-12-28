@@ -6,5 +6,5 @@
 
 # :raising_hand_woman:
 <ul>
-  <li>:computer:</li>
+  <li>:computer:I am currently working with something really cool:wink:;</li>
  </ul>
