@@ -7,4 +7,5 @@ zz
 # :raising_hand_woman:
 <ul>
   <li>:computer:  I am currently working with something really cool  :wink:;</li>
+ <li><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/Handshake.gif" width="15" height="15">I am looking forward to collabrate on mini projects</li>
  </ul>
