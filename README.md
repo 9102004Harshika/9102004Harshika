@@ -20,6 +20,7 @@
 ![Harshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=9102004Harshika&show_icons=true&theme=dark)
 ![Harshika's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9102004Harshika&theme=dark)
 ![Harshika's Current streak](https://streak-stats.demolab.com/?user=9102004Harshika&theme=dark)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9102004harshika" alt="9102004harshika" /></a> </p>
 
 <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/me.gif" align="right" width="300" height="300">
 
@@ -45,7 +46,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9102004harshika" alt="9102004harshika" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/gawadeharshika" target="blank"><img src="https://img.shields.io/twitter/follow/gawadeharshika?logo=twitter&style=for-the-badge" alt="gawadeharshika" /></a> </p>
 
