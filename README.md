@@ -25,5 +25,5 @@
 
 
 # 🚀:Languages
-<img src="https://img.shields.io/badge/html-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/html-ColourCode?logo=Html&logoColor=ColorName&style=ShieldStyle" />
  
