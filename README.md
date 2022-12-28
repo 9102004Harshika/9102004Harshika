@@ -24,6 +24,5 @@
 
 
 
-# 🚀:Languages
-<img src="https://img.shields.io/badge/html-ColourCode?logo=Html&logoColor=ColorName&style=ShieldStyle" />
+![Harshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=9102004Harshika&show_icons=true)
  
