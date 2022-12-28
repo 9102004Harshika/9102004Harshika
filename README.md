@@ -21,7 +21,7 @@
 ![Harshika's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9102004Harshika&theme=dark)
 ![Harshika's Current streak](https://streak-stats.demolab.com/?user=9102004Harshika&theme=dark)
 
-<img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/me.gif" align="right" width="200" height="200">
+<img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/me.gif" align="right" width="300" height="300">
 
 
 
