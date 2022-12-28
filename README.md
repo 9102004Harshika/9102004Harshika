@@ -30,7 +30,7 @@
  
  
  
- <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="300" height="300" align="right">
+ 
  
  
  
@@ -48,7 +48,14 @@
 
 <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/me.gif" align="right" width="300" height="300">
 
+  
+  <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="300" height="300" align="right"
 
+  
+  
+  
+  
+  
 
 
 # <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25">Connect with me:
