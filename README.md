@@ -4,7 +4,7 @@
 
 
 
-##:raising_hand_woman:
+### :raising_hand_woman:
 <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/coding-freak%20(1).gif" align="right" width="350" height="350">
 <ul>
   <li>:computer:  I am currently working with something really cool  :wink:;</li>
