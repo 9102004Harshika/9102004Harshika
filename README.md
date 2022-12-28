@@ -26,7 +26,7 @@
 
 
 
-# :wave:Connect with me:
+# <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25">Connect with me:
 
 <p align="left">
 <a href="https://codepen.io/harshika gawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshika gawade" height="30" width="40" /></a>
