@@ -57,4 +57,4 @@
 
 - 📫 How to reach me **harshikagawade@gmail.com**
 
-- ⚡ Fun fact **I think that I am more focussed.**
+- ⚡ Fun fact **I think that I am focussed.:wink:
