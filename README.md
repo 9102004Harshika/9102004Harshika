@@ -85,6 +85,8 @@
 
 <p align="left"> <a href="https://twitter.com/gawadeharshika" target="blank"><img src="https://img.shields.io/twitter/follow/gawadeharshika?logo=twitter&style=for-the-badge" alt="gawadeharshika" /></a> </p>
 
+<hr>
+  Also do checkout my portfolio ,to know more about me and explore on my projects.Click on the link below to go to my website.
 
   
   
