@@ -25,5 +25,5 @@
 
 
 # 🚀:Languages
-<a href="https://aws.amazon.com/">
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
  
