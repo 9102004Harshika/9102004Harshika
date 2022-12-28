@@ -47,7 +47,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9102004harshika" alt="9102004harshika" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/harshika gawade" target="blank"><img src="https://img.shields.io/twitter/follow/harshika gawade?logo=twitter&style=for-the-badge" alt="harshika gawade" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gawadeharshika" target="blank"><img src="https://img.shields.io/twitter/follow/gawadeharshika?logo=twitter&style=for-the-badge" alt="gawadeharshika" /></a> </p>
 
 - 🌱 I’m currently learning **React and other js framewroks and also ui designing.**
 
@@ -58,8 +58,3 @@
 - 📫 How to reach me **harshikagawade@gmail.com**
 
 - ⚡ Fun fact **I think that I am more focussed.**
-
-
-
-
- 
