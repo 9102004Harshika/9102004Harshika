@@ -2,6 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B61798&center=true&vCenter=true&width=435&lines=Front+End+Enthusiast.;Student+At+Thakur+Instituions;Want+To+Learn+More+About+UI" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
 
-:raising_hand_woman:
+
+# :raising_hand_woman:
