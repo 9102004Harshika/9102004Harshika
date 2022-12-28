@@ -22,7 +22,7 @@
 
 
 
-
+# :bar_chart:My Github Stats
 
 ![Harshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=9102004Harshika&show_icons=true&theme=dark)
 ![Harshika's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9102004Harshika&theme=dark)
