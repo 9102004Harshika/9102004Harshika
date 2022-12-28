@@ -43,7 +43,7 @@
 ![Harshika's Current streak](https://streak-stats.demolab.com/?user=9102004Harshika&theme=dark)
 <hr>
 
-<img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="300" height="300" align="right">
+
 
 
 
