@@ -24,6 +24,12 @@
 
 <li> ⚡ Fun fact :I think that I am focussed.:wink:</li>
  </ul>
+ 
+ 
+ 
+ 
+ 
+ 
  <img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/new.gif" width="300" height="300" align="right">
  
  
