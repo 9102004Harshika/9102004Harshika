@@ -22,7 +22,7 @@
 
 <Li> 📫 How to reach me :<B>harshikagawade@gmail.com</B></li>
 
-<li> ⚡ Fun fact :I think that I am focussed.:wink:</li>
+
  </ul>
  
  
