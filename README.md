@@ -14,7 +14,7 @@
 <ul>
   <li>:computer:  I am currently working with something really cool  :wink:</li>
  <li><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/Handshake.gif" width="30" height="30">I am looking forward to collabrate on <b>Mini projects</b></li>
-  </li> 🌱 I’m currently learning **React and other js frameworks and also ui designing.</li>
+  </li> 🌱 I’m currently learning ui designing and Artificial intelligence.</li>
 
 <li> 👨‍💻 Some of my projects are available at https://harshikagawade09.netlify.app</li>
 
