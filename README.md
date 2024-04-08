@@ -26,16 +26,6 @@
  </ul>
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 # :bar_chart:My Github Stats
 ![Harshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=9102004Harshika&show_icons=true&theme=dark)
